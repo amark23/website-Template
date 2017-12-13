@@ -1,0 +1,101 @@
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	margin-right: 0px;
+	width: 950px;
+	height: 100px;
+	overflow: hidden;
+	background-color: none; 
+
+}
+li{
+	float: right;
+
+}
+li a{
+	display:block; 
+	border-radius: 12px;
+	text-align: center;
+	text-decoration: none;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	color: white;
+	padding: 18px 15px;
+		width:90px;
+	height: 40px;
+}
+li a:hover{
+	background-color: white; opacity: 0.5;
+	color: black;
+	border-radius: 12px;
+	
+}
+li a:active{
+	background-color: yellow;
+
+}
+h1{
+	height: auto;
+	text-align: center;
+	text-decoration-color: azure;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	font-size: 400%;
+color: navajowhite;
+	
+}
+
+h2{height: auto;
+	text-align: center;
+	font-size: 200%;
+	font-family: "alex-brush";
+	font-style: italic;
+	color: aliceblue;
+	
+}
+#butto{
+	float: left;
+	display: inline-block;
+   
+	line-height: 85px;
+	text-align: center;
+	text-decoration: none;
+   font-size: 80%;
+	background-color: none;
+	margin-left: 600px;
+	margin-top: 150px;
+	width: 150px;
+	height: 100px;
+	}
+#butto button {
+
+	width: 150px;
+	height: 50px;
+    background-color: black; opacity: 0.8;
+	border: solid;
+	border-color: black;
+	border-radius: 15px;
+	border-bottom-left-radius: 15px;
+	font-family: "alex-brush";
+	font-size: 200%;
+
+	
+}
+#butto button a{
+		text-decoration: none;
+	display: inline-block;
+	font-family: alegreya;
+	color: white;
+	background: none;
+}
+
+#foot{
+	margin-left:1160px;
+	margin-top: 290px;
+	width: 200px;
+	background-color: black;
+     color: white;
+	 position:fixed;
+}
+#foot a{
+	color: wheat;
+}

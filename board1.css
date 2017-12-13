@@ -1,0 +1,214 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+#full{
+	width: inherit;
+	height: auto;
+	;
+}
+#log img{
+	padding-top: 5px;
+	padding-left: 40px;
+	width: 130px;
+	height: 70px;
+	
+}
+#log kbd{
+	color: wheat;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-left: 250px;
+	text-decoration-style: none;
+	text-emphasis-style: none;
+
+}
+#log kbd a{
+	color: wheat;
+	padding-bottom: 50px;
+	
+}
+#log form{
+	float: right;
+	color: wheat;
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-top: 15px
+}
+#menu ul{
+	list-style: none;
+	
+}
+#menu ul li{
+	color: white;
+	background-color: none;
+	border: 1px solid white;
+	width: 220px;
+	height: 35;
+	line-height: 35px;
+	text-align: center;
+border-radius: 8px;
+	float: right;
+	position: relative;
+}
+#menu ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+#menu ul li a:hover{
+	background-color: dimgrey;
+	border-radius: 8px;
+}
+#menu ul li a:active{
+	background-color: palevioletred;
+
+}
+#menu ul ul{
+	
+	position: absolute;
+	display: none;
+}
+#menu ul ul li{
+	background-color: black;
+}
+#menu ul li:hover>ul{
+	display: block;
+	
+}
+#menu ul ul li a:active{
+	background-color: palevioletred;
+
+}
+
+#menuin{
+	width: 220px;
+	float: left;
+}
+#menuin ul{
+	list-style: none;
+	
+	width: 220px;
+	margin-top: 150px;
+	height: 35px;
+	
+}
+#menuin ul li{
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	width: 220px;
+	height: 35;
+	line-height: 35px;
+	text-align: center;
+border-radius: 8px;
+	position: relative;
+}
+#menuin ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+#menuin ul li a:hover{
+	background-color: dimgrey;
+	border-radius: 8px;
+}
+#menuin li a:active{
+	background-color: palevioletred;
+}
+#content{
+	width: 500px;
+	height: 10px;
+	
+}
+#content h1{
+	text-align: center;
+	padding-top: 20px;
+    width: 700px;
+	color: white;
+	text-shadow: 1px 1px white;
+	letter-spacing: 2px;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+#d {
+	float: left;
+	color: black;
+	margin-left: 175px;
+	margin-top: 130px;
+	height: 240px;
+	width: 250px;
+	background-color: white;
+}
+#d h3{
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif"
+	
+}
+#d h4{
+	text-align: center;
+}
+#d1 {
+	float: left;
+	color: black;
+	margin-left: 280px;
+	margin-top: 131px;
+	height: 242px;
+	width: 250px;
+	background-color: white;
+}
+#d1 h3{
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif"
+	
+}
+#d1 h4{
+	text-align: center;
+}
+#d2 {
+	float: left;
+	color: black;
+	margin-left: 395px;
+	margin-top: 70px;
+	height: 242px;
+	width: 250px;
+	background-color: white;
+}
+#d2 h3{
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif"
+	
+}
+#d2 h4{
+	text-align: center;
+}
+#d3 {
+	float: left;
+	color: black;
+	margin-left: 280px;
+	margin-top: 70px;
+	height: 242px;
+	width: 250px;
+	background-color: white;
+}
+#d3 h3{
+	text-align: center;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif"
+	
+}
+#d3 h4{
+	text-align: center;
+}
+#foot {
+	margin-top: 490px;
+	margin-left:1168px;
+	width: auto;
+	background-color: black;
+     color: white;
+	 position:fixed;
+}
+#foot a{
+	color: wheat;
+}
